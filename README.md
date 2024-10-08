@@ -1,4 +1,4 @@
-**--- Appropriate sensor profiles for FPV ---**
+**--- Sensor Profiles for FPV ---**
 
 
 1.  Copy file to `/etc/sensors`
