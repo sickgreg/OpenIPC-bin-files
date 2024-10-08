@@ -8,7 +8,7 @@
 5.  Restart
 
 
-**--- Commandline Installation ---**
+**--- Automated Installation ---**
 
 **imx335**
 ```
